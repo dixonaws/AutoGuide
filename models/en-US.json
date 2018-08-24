@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "space facts",
+      "invocationName": "car guru",
       "intents": [
         {
           "name": "AMAZON.CancelIntent",
