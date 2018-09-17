@@ -3,18 +3,14 @@
     "publishingInformation": {
       "locales": {
         "en-US": {
-          "summary": "Learn fun facts about space.",
+          "summary": "Sample Short Description",
           "examplePhrases": [
-            "Alexa open CarGuru"
-
+            "Alexa open connected car",
+            "Alexa ask connected car about my trips",
+            "Alexa ask connected car about my current trip"
           ],
-          "keywords": [
-            "space",
-            "facts",
-            "trivia"
-          ],
-          "name": "CarGuru",
-          "description": "Get information about your connected car."
+          "name": "ConnectedCar",
+          "description": "Sample Full Description"
         }
       },
       "isAvailableWorldwide": true,

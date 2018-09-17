@@ -1,2 +1,4 @@
 .DS_Store
-/lambda/custom/node_modules
+venv/
+.idea/
+
