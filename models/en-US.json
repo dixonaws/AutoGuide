@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "connected car",
+      "invocationName": "autoguide",
       "types": [
       ],
       "intents": [
@@ -25,7 +25,7 @@
           "slots": [
           ],
           "samples": [
-            "open connected car"
+            "open autoguide"
           ]
         }
       ]

@@ -5,11 +5,11 @@
         "en-US": {
           "summary": "Sample Short Description",
           "examplePhrases": [
-            "Alexa open connected car",
-            "Alexa ask connected car about my trips",
-            "Alexa ask connected car about my current trip"
+            "Alexa open autoguide",
+            "Alexa ask autoguide about my trips",
+            "Alexa ask autoguide about my current trip"
           ],
-          "name": "ConnectedCar",
+          "name": "AutoGuide",
           "description": "Sample Full Description"
         }
       },
