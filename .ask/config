@@ -6,7 +6,7 @@
       "merge": {
         "manifest": {
           "apis": {
-            "custom": {
+            "py": {
               "endpoint": {
                 "uri": "autoguide-default"
               }
